@@ -21,7 +21,7 @@ from imblearn.over_sampling import SMOTE
 # %%
 filepath = r'.\data\chapter25_heart_disease.csv'
 id = 'root'
-pw = 276018
+pw = ****
 host = 'localhost'
 dbname = 'heartdisease'
 tbname = 'heartdiseasetbl'
